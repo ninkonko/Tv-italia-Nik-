@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="Italia Ⓖ",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Italia Ⓖ",Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Sportitalia SOLOCALCIO
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Radio Montecarlo TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Virgin Radio TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",Class CNBC
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italia Ⓖ",UniNettuno University TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
